@@ -1,0 +1,10 @@
+Título: Creador de partida.
+
+
+Crear una partida y esperar a que se unan.
+Minimo 4 y maximo 5
+Si se quiere empezar antes de que se complete los 4 jugadores, rellenar con jugadores maquina(IA)
+Partida planificada para determinado dia y jugadores
+Partidas privadas(no aceptan espectador), publico(aceptan espectador)
+
+Estimacion: 3 dias
